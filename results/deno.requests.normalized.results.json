@@ -1,0 +1,152 @@
+[
+  {
+    "nrOfCalls": 1,
+    "totalTime": 420,
+    "timePerCall": 420
+  },
+  {
+    "nrOfCalls": 4,
+    "totalTime": 1520,
+    "timePerCall": 380
+  },
+  {
+    "nrOfCalls": 9,
+    "totalTime": 3403,
+    "timePerCall": 379
+  },
+  {
+    "nrOfCalls": 16,
+    "totalTime": 6051,
+    "timePerCall": 379
+  },
+  {
+    "nrOfCalls": 25,
+    "totalTime": 9679,
+    "timePerCall": 388
+  },
+  {
+    "nrOfCalls": 36,
+    "totalTime": 13596,
+    "timePerCall": 378
+  },
+  {
+    "nrOfCalls": 49,
+    "totalTime": 18704,
+    "timePerCall": 382
+  },
+  {
+    "nrOfCalls": 64,
+    "totalTime": 24572,
+    "timePerCall": 384
+  },
+  {
+    "nrOfCalls": 81,
+    "totalTime": 31819,
+    "timePerCall": 393
+  },
+  {
+    "nrOfCalls": 100,
+    "totalTime": 39413,
+    "timePerCall": 395
+  },
+  {
+    "nrOfCalls": 121,
+    "totalTime": 48213,
+    "timePerCall": 399
+  },
+  {
+    "nrOfCalls": 144,
+    "totalTime": 58688,
+    "timePerCall": 408
+  },
+  {
+    "nrOfCalls": 169,
+    "totalTime": 70381,
+    "timePerCall": 417
+  },
+  {
+    "nrOfCalls": 196,
+    "totalTime": 83213,
+    "timePerCall": 425
+  },
+  {
+    "nrOfCalls": 225,
+    "totalTime": 97611,
+    "timePerCall": 434
+  },
+  {
+    "nrOfCalls": 256,
+    "totalTime": 113741,
+    "timePerCall": 445
+  },
+  {
+    "nrOfCalls": 289,
+    "totalTime": 131413,
+    "timePerCall": 455
+  },
+  {
+    "nrOfCalls": 324,
+    "totalTime": 154493,
+    "timePerCall": 477
+  },
+  {
+    "nrOfCalls": 361,
+    "totalTime": 178863,
+    "timePerCall": 496
+  },
+  {
+    "nrOfCalls": 400,
+    "totalTime": 204821,
+    "timePerCall": 513
+  },
+  {
+    "nrOfCalls": 441,
+    "totalTime": 236723,
+    "timePerCall": 537
+  },
+  {
+    "nrOfCalls": 484,
+    "totalTime": 270087,
+    "timePerCall": 559
+  },
+  {
+    "nrOfCalls": 529,
+    "totalTime": 308302,
+    "timePerCall": 583
+  },
+  {
+    "nrOfCalls": 576,
+    "totalTime": 350995,
+    "timePerCall": 610
+  },
+  {
+    "nrOfCalls": 625,
+    "totalTime": 399696,
+    "timePerCall": 640
+  },
+  {
+    "nrOfCalls": 676,
+    "totalTime": 457038,
+    "timePerCall": 677
+  },
+  {
+    "nrOfCalls": 729,
+    "totalTime": 515867,
+    "timePerCall": 708
+  },
+  {
+    "nrOfCalls": 784,
+    "totalTime": 588843,
+    "timePerCall": 752
+  },
+  {
+    "nrOfCalls": 841,
+    "totalTime": 660349,
+    "timePerCall": 786
+  },
+  {
+    "nrOfCalls": 900,
+    "totalTime": 746257,
+    "timePerCall": 830
+  }
+]

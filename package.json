@@ -1,0 +1,23 @@
+{
+  "name": "bp_denonode_testing",
+  "version": "1.0.0",
+  "description": "BP_DenoNode_testing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JordyVanKerkvoorde/BP_DenoNode_testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JordyVanKerkvoorde/BP_DenoNode_testing/issues"
+  },
+  "homepage": "https://github.com/JordyVanKerkvoorde/BP_DenoNode_testing#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}

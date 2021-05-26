@@ -1,0 +1,142 @@
+[
+  {
+    "nrOfCalls": 1,
+    "time": 23
+  },
+  {
+    "nrOfCalls": 4,
+    "time": 5
+  },
+  {
+    "nrOfCalls": 9,
+    "time": 8
+  },
+  {
+    "nrOfCalls": 16,
+    "time": 11
+  },
+  {
+    "nrOfCalls": 25,
+    "time": 17
+  },
+  {
+    "nrOfCalls": 36,
+    "time": 27
+  },
+  {
+    "nrOfCalls": 49,
+    "time": 26
+  },
+  {
+    "nrOfCalls": 64,
+    "time": 40
+  },
+  {
+    "nrOfCalls": 81,
+    "time": 57
+  },
+  {
+    "nrOfCalls": 100,
+    "time": 67
+  },
+  {
+    "nrOfCalls": 121,
+    "time": 60
+  },
+  {
+    "nrOfCalls": 144,
+    "time": 73
+  },
+  {
+    "nrOfCalls": 169,
+    "time": 77
+  },
+  {
+    "nrOfCalls": 196,
+    "time": 88
+  },
+  {
+    "nrOfCalls": 225,
+    "time": 104
+  },
+  {
+    "nrOfCalls": 256,
+    "time": 113
+  },
+  {
+    "nrOfCalls": 289,
+    "time": 129
+  },
+  {
+    "nrOfCalls": 324,
+    "time": 147
+  },
+  {
+    "nrOfCalls": 361,
+    "time": 160
+  },
+  {
+    "nrOfCalls": 400,
+    "time": 166
+  },
+  {
+    "nrOfCalls": 441,
+    "time": 157
+  },
+  {
+    "nrOfCalls": 484,
+    "time": 175
+  },
+  {
+    "nrOfCalls": 529,
+    "time": 214
+  },
+  {
+    "nrOfCalls": 576,
+    "time": 196
+  },
+  {
+    "nrOfCalls": 625,
+    "time": 219
+  },
+  {
+    "nrOfCalls": 676,
+    "time": 215
+  },
+  {
+    "nrOfCalls": 729,
+    "time": 238
+  },
+  {
+    "nrOfCalls": 784,
+    "time": 258
+  },
+  {
+    "nrOfCalls": 841,
+    "time": 278
+  },
+  {
+    "nrOfCalls": 900,
+    "time": 303
+  },
+  {
+    "nrOfCalls": 961,
+    "time": 323
+  },
+  {
+    "nrOfCalls": 1024,
+    "time": 349
+  },
+  {
+    "nrOfCalls": 1089,
+    "time": 359
+  },
+  {
+    "nrOfCalls": 1156,
+    "time": 382
+  },
+  {
+    "nrOfCalls": 1225,
+    "time": 393
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "nrOfCalls": 1,
+    "totalTime": 20,
+    "timePerCall": 20
+  },
+  {
+    "nrOfCalls": 4,
+    "totalTime": 5,
+    "timePerCall": 1.25
+  },
+  {
+    "nrOfCalls": 9,
+    "totalTime": 8,
+    "timePerCall": 0.8888888888888888
+  },
+  {
+    "nrOfCalls": 16,
+    "totalTime": 16,
+    "timePerCall": 1
+  },
+  {
+    "nrOfCalls": 25,
+    "totalTime": 16,
+    "timePerCall": 0.64
+  },
+  {
+    "nrOfCalls": 36,
+    "totalTime": 35,
+    "timePerCall": 0.9722222222222222
+  },
+  {
+    "nrOfCalls": 49,
+    "totalTime": 28,
+    "timePerCall": 0.5714285714285714
+  },
+  {
+    "nrOfCalls": 64,
+    "totalTime": 36,
+    "timePerCall": 0.5625
+  },
+  {
+    "nrOfCalls": 81,
+    "totalTime": 55,
+    "timePerCall": 0.6790123456790124
+  },
+  {
+    "nrOfCalls": 100,
+    "totalTime": 66,
+    "timePerCall": 0.66
+  },
+  {
+    "nrOfCalls": 121,
+    "totalTime": 58,
+    "timePerCall": 0.4793388429752066
+  },
+  {
+    "nrOfCalls": 144,
+    "totalTime": 63,
+    "timePerCall": 0.4375
+  },
+  {
+    "nrOfCalls": 169,
+    "totalTime": 81,
+    "timePerCall": 0.47928994082840237
+  },
+  {
+    "nrOfCalls": 196,
+    "totalTime": 77,
+    "timePerCall": 0.39285714285714285
+  },
+  {
+    "nrOfCalls": 225,
+    "totalTime": 109,
+    "timePerCall": 0.48444444444444446
+  },
+  {
+    "nrOfCalls": 256,
+    "totalTime": 101,
+    "timePerCall": 0.39453125
+  },
+  {
+    "nrOfCalls": 289,
+    "totalTime": 116,
+    "timePerCall": 0.4013840830449827
+  },
+  {
+    "nrOfCalls": 324,
+    "totalTime": 126,
+    "timePerCall": 0.3888888888888889
+  },
+  {
+    "nrOfCalls": 361,
+    "totalTime": 148,
+    "timePerCall": 0.4099722991689751
+  },
+  {
+    "nrOfCalls": 400,
+    "totalTime": 161,
+    "timePerCall": 0.4025
+  },
+  {
+    "nrOfCalls": 441,
+    "totalTime": 148,
+    "timePerCall": 0.3356009070294785
+  },
+  {
+    "nrOfCalls": 484,
+    "totalTime": 174,
+    "timePerCall": 0.359504132231405
+  },
+  {
+    "nrOfCalls": 529,
+    "totalTime": 174,
+    "timePerCall": 0.32892249527410206
+  },
+  {
+    "nrOfCalls": 576,
+    "totalTime": 215,
+    "timePerCall": 0.3732638888888889
+  },
+  {
+    "nrOfCalls": 625,
+    "totalTime": 212,
+    "timePerCall": 0.3392
+  },
+  {
+    "nrOfCalls": 676,
+    "totalTime": 212,
+    "timePerCall": 0.3136094674556213
+  },
+  {
+    "nrOfCalls": 729,
+    "totalTime": 230,
+    "timePerCall": 0.31550068587105623
+  },
+  {
+    "nrOfCalls": 784,
+    "totalTime": 254,
+    "timePerCall": 0.3239795918367347
+  },
+  {
+    "nrOfCalls": 841,
+    "totalTime": 274,
+    "timePerCall": 0.3258026159334126
+  },
+  {
+    "nrOfCalls": 900,
+    "totalTime": 292,
+    "timePerCall": 0.3244444444444444
+  },
+  {
+    "nrOfCalls": 961,
+    "totalTime": 285,
+    "timePerCall": 0.29656607700312176
+  },
+  {
+    "nrOfCalls": 1024,
+    "totalTime": 316,
+    "timePerCall": 0.30859375
+  },
+  {
+    "nrOfCalls": 1089,
+    "totalTime": 354,
+    "timePerCall": 0.325068870523416
+  },
+  {
+    "nrOfCalls": 1156,
+    "totalTime": 360,
+    "timePerCall": 0.31141868512110726
+  },
+  {
+    "nrOfCalls": 1225,
+    "totalTime": 375,
+    "timePerCall": 0.30612244897959184
+  }
+]
