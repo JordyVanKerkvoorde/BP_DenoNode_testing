@@ -1,0 +1,1 @@
+export { myCustomFunction } from "http://localhost:1337/mycustom-2.package.ts";

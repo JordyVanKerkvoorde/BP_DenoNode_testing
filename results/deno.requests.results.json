@@ -1,122 +1,118 @@
 [
   {
     "nrOfCalls": 1,
-    "time": 420
+    "time": 135
   },
   {
     "nrOfCalls": 4,
-    "time": 1520
+    "time": 45
   },
   {
     "nrOfCalls": 9,
-    "time": 3403
+    "time": 81
   },
   {
     "nrOfCalls": 16,
-    "time": 6051
+    "time": 154
   },
   {
     "nrOfCalls": 25,
-    "time": 9679
+    "time": 245
   },
   {
     "nrOfCalls": 36,
-    "time": 13596
+    "time": 386
   },
   {
     "nrOfCalls": 49,
-    "time": 18704
+    "time": 655
   },
   {
     "nrOfCalls": 64,
-    "time": 24572
+    "time": 1014
   },
   {
     "nrOfCalls": 81,
-    "time": 31819
+    "time": 1606
   },
   {
     "nrOfCalls": 100,
-    "time": 39413
+    "time": 2472
   },
   {
     "nrOfCalls": 121,
-    "time": 48213
+    "time": 3680
   },
   {
     "nrOfCalls": 144,
-    "time": 58688
+    "time": 5598
   },
   {
     "nrOfCalls": 169,
-    "time": 70381
+    "time": 7721
   },
   {
     "nrOfCalls": 196,
-    "time": 83213
+    "time": 10751
   },
   {
     "nrOfCalls": 225,
-    "time": 97611
+    "time": 14465
   },
   {
     "nrOfCalls": 256,
-    "time": 113741
+    "time": 19810
   },
   {
     "nrOfCalls": 289,
-    "time": 131413
+    "time": 26183
   },
   {
     "nrOfCalls": 324,
-    "time": 154493
+    "time": 34105
   },
   {
     "nrOfCalls": 361,
-    "time": 178863
+    "time": 44492
   },
   {
     "nrOfCalls": 400,
-    "time": 204821
+    "time": 56789
   },
   {
     "nrOfCalls": 441,
-    "time": 236723
+    "time": 71153
   },
   {
     "nrOfCalls": 484,
-    "time": 270087
+    "time": 89836
   },
   {
     "nrOfCalls": 529,
-    "time": 308302
+    "time": 112477
   },
   {
     "nrOfCalls": 576,
-    "time": 350995
+    "time": 136500
   },
   {
     "nrOfCalls": 625,
-    "time": 399696
+    "time": 166806
   },
   {
     "nrOfCalls": 676,
-    "time": 457038
+    "time": 201949
   },
   {
     "nrOfCalls": 729,
-    "time": 515867
+    "time": 240960
   },
   {
     "nrOfCalls": 784,
-    "time": 588843
+    "time": 284852
   },
   {
     "nrOfCalls": 841,
-    "time": 660349
-  },
-  {
-    "nrOfCalls": 900,
-    "time": 746257
+    "time": 341749
   }
 ]

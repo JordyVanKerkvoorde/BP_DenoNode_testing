@@ -45,10 +45,10 @@ async function testDenoAPI() {
         const time = await testApi(i ** 2);
 
         tests.push({
-            nrOfCalls: i,
+            nrOfCalls: i ** 2,
             time
         })
-        console.log(i ** 2)
+        console.log(`${i ** 2}: ${time}`)
     }
 
     console.log(tests);

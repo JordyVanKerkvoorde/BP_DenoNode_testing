@@ -1,152 +1,147 @@
 [
   {
     "nrOfCalls": 1,
-    "totalTime": 420,
-    "timePerCall": 420
+    "totalTime": 135,
+    "timePerCall": 135
   },
   {
     "nrOfCalls": 4,
-    "totalTime": 1520,
-    "timePerCall": 380
+    "totalTime": 45,
+    "timePerCall": 12
   },
   {
     "nrOfCalls": 9,
-    "totalTime": 3403,
-    "timePerCall": 379
+    "totalTime": 81,
+    "timePerCall": 9
   },
   {
     "nrOfCalls": 16,
-    "totalTime": 6051,
-    "timePerCall": 379
+    "totalTime": 154,
+    "timePerCall": 10
   },
   {
     "nrOfCalls": 25,
-    "totalTime": 9679,
-    "timePerCall": 388
+    "totalTime": 245,
+    "timePerCall": 10
   },
   {
     "nrOfCalls": 36,
-    "totalTime": 13596,
-    "timePerCall": 378
+    "totalTime": 386,
+    "timePerCall": 11
   },
   {
     "nrOfCalls": 49,
-    "totalTime": 18704,
-    "timePerCall": 382
+    "totalTime": 655,
+    "timePerCall": 14
   },
   {
     "nrOfCalls": 64,
-    "totalTime": 24572,
-    "timePerCall": 384
+    "totalTime": 1014,
+    "timePerCall": 16
   },
   {
     "nrOfCalls": 81,
-    "totalTime": 31819,
-    "timePerCall": 393
+    "totalTime": 1606,
+    "timePerCall": 20
   },
   {
     "nrOfCalls": 100,
-    "totalTime": 39413,
-    "timePerCall": 395
+    "totalTime": 2472,
+    "timePerCall": 25
   },
   {
     "nrOfCalls": 121,
-    "totalTime": 48213,
-    "timePerCall": 399
+    "totalTime": 3680,
+    "timePerCall": 31
   },
   {
     "nrOfCalls": 144,
-    "totalTime": 58688,
-    "timePerCall": 408
+    "totalTime": 5598,
+    "timePerCall": 39
   },
   {
     "nrOfCalls": 169,
-    "totalTime": 70381,
-    "timePerCall": 417
+    "totalTime": 7721,
+    "timePerCall": 46
   },
   {
     "nrOfCalls": 196,
-    "totalTime": 83213,
-    "timePerCall": 425
+    "totalTime": 10751,
+    "timePerCall": 55
   },
   {
     "nrOfCalls": 225,
-    "totalTime": 97611,
-    "timePerCall": 434
+    "totalTime": 14465,
+    "timePerCall": 65
   },
   {
     "nrOfCalls": 256,
-    "totalTime": 113741,
-    "timePerCall": 445
+    "totalTime": 19810,
+    "timePerCall": 78
   },
   {
     "nrOfCalls": 289,
-    "totalTime": 131413,
-    "timePerCall": 455
+    "totalTime": 26183,
+    "timePerCall": 91
   },
   {
     "nrOfCalls": 324,
-    "totalTime": 154493,
-    "timePerCall": 477
+    "totalTime": 34105,
+    "timePerCall": 106
   },
   {
     "nrOfCalls": 361,
-    "totalTime": 178863,
-    "timePerCall": 496
+    "totalTime": 44492,
+    "timePerCall": 124
   },
   {
     "nrOfCalls": 400,
-    "totalTime": 204821,
-    "timePerCall": 513
+    "totalTime": 56789,
+    "timePerCall": 142
   },
   {
     "nrOfCalls": 441,
-    "totalTime": 236723,
-    "timePerCall": 537
+    "totalTime": 71153,
+    "timePerCall": 162
   },
   {
     "nrOfCalls": 484,
-    "totalTime": 270087,
-    "timePerCall": 559
+    "totalTime": 89836,
+    "timePerCall": 186
   },
   {
     "nrOfCalls": 529,
-    "totalTime": 308302,
-    "timePerCall": 583
+    "totalTime": 112477,
+    "timePerCall": 213
   },
   {
     "nrOfCalls": 576,
-    "totalTime": 350995,
-    "timePerCall": 610
+    "totalTime": 136500,
+    "timePerCall": 237
   },
   {
     "nrOfCalls": 625,
-    "totalTime": 399696,
-    "timePerCall": 640
+    "totalTime": 166806,
+    "timePerCall": 267
   },
   {
     "nrOfCalls": 676,
-    "totalTime": 457038,
-    "timePerCall": 677
+    "totalTime": 201949,
+    "timePerCall": 299
   },
   {
     "nrOfCalls": 729,
-    "totalTime": 515867,
-    "timePerCall": 708
+    "totalTime": 240960,
+    "timePerCall": 331
   },
   {
     "nrOfCalls": 784,
-    "totalTime": 588843,
-    "timePerCall": 752
+    "totalTime": 284852,
+    "timePerCall": 364
   },
   {
     "nrOfCalls": 841,
-    "totalTime": 660349,
-    "timePerCall": 786
-  },
-  {
-    "nrOfCalls": 900,
-    "totalTime": 746257,
-    "timePerCall": 830
+    "totalTime": 341749,
+    "timePerCall": 407
   }
 ]

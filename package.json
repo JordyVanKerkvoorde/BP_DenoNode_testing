@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/JordyVanKerkvoorde/BP_DenoNode_testing#readme",
   "dependencies": {
-    "axios": "^0.21.1"
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "qr-image": "^3.2.0"
   }
 }

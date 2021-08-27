@@ -1,0 +1,122 @@
+[
+  {
+    "nrOfCalls": 1,
+    "time": 222
+  },
+  {
+    "nrOfCalls": 4,
+    "time": 746
+  },
+  {
+    "nrOfCalls": 9,
+    "time": 1619
+  },
+  {
+    "nrOfCalls": 16,
+    "time": 2896
+  },
+  {
+    "nrOfCalls": 25,
+    "time": 4584
+  },
+  {
+    "nrOfCalls": 36,
+    "time": 6754
+  },
+  {
+    "nrOfCalls": 49,
+    "time": 9054
+  },
+  {
+    "nrOfCalls": 64,
+    "time": 11898
+  },
+  {
+    "nrOfCalls": 81,
+    "time": 15158
+  },
+  {
+    "nrOfCalls": 100,
+    "time": 18882
+  },
+  {
+    "nrOfCalls": 121,
+    "time": 23001
+  },
+  {
+    "nrOfCalls": 144,
+    "time": 27901
+  },
+  {
+    "nrOfCalls": 169,
+    "time": 33569
+  },
+  {
+    "nrOfCalls": 196,
+    "time": 39302
+  },
+  {
+    "nrOfCalls": 225,
+    "time": 45924
+  },
+  {
+    "nrOfCalls": 256,
+    "time": 54118
+  },
+  {
+    "nrOfCalls": 289,
+    "time": 181912
+  },
+  {
+    "nrOfCalls": 324,
+    "time": 205008
+  },
+  {
+    "nrOfCalls": 361,
+    "time": 232000
+  },
+  {
+    "nrOfCalls": 400,
+    "time": 258513
+  },
+  {
+    "nrOfCalls": 441,
+    "time": 291319
+  },
+  {
+    "nrOfCalls": 484,
+    "time": 322368
+  },
+  {
+    "nrOfCalls": 529,
+    "time": 383351
+  },
+  {
+    "nrOfCalls": 576,
+    "time": 411937
+  },
+  {
+    "nrOfCalls": 625,
+    "time": 442920
+  },
+  {
+    "nrOfCalls": 676,
+    "time": 485650
+  },
+  {
+    "nrOfCalls": 729,
+    "time": 533181
+  },
+  {
+    "nrOfCalls": 784,
+    "time": 592825
+  },
+  {
+    "nrOfCalls": 841,
+    "time": 663790
+  },
+  {
+    "nrOfCalls": 900,
+    "time": 709306
+  }
+]
